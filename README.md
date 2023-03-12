@@ -37,6 +37,14 @@ How we built it
 
 MapIntel was built using a variety of technologies, including news API, openAI, Flask, Google Maps API, Selenium, and web scrapers. We used AI algorithms to process user input and identify relevant news events, and incorporated a user-friendly map display to make it easy for users to see where events are occurring.
 
+Demonstration
+----------------------
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/418/121/datas/original.png"  width="400px" height="200px">
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/418/122/datas/original.png"  width="400px" height="200px">
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/418/123/datas/original.png"  width="400px" height="200px">
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/418/124/datas/original.png"  width="400px" height="200px">
+
+
 Challenges we ran into
 ----------------------
 
