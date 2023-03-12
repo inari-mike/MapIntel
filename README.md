@@ -1,12 +1,27 @@
 # MapIntel
-Project for Philly Codefest 2023. More detail: https://devpost.com/software/mapintel-uctgxa
-*   [![MapIntel – screenshot 1](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/415/672/datas/original.png)](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/415/672/datas/original.png)
-    
-    _"Connecting you to the world, one map at a time."_
-    
+Project for Philly Codefest 2023. 
 
-Inspiration
+More detail: https://devpost.com/software/mapintel-uctgxa
+
+
+[![MapIntel – screenshot 1](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/415/672/datas/original.png)](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/415/672/datas/original.png)
+    
+   > "Connecting you to the world, one map at a time."
+
+Thanks to our teammates & Contributors
+----------
+> <img src="https://avatars.githubusercontent.com/u/22798393"  width="100px" height="100px">
+> bobmst(Bob)  https://github.com/bobmst
+
+> <img src="https://avatars.githubusercontent.com/u/71921924"  width="100px" height="100px">
+> lixiao-yang(Lixiao Yang)  https://github.com/lixiao-yang
+
+> <img src="https://avatars.githubusercontent.com/u/70353905"  width="100px" height="100px">
+> character331(Mengyang Xu)  https://github.com/character331
+
 -----------
+
+# Inspiration
 
 Mike woke up on a Saturday morning and searched for events happening near University City this weekend, so that he could hang out with his friend and have some fun. With Google Maps open on his phone, Mike browsed through the news on Visit Philly and Eventbrite. He wanted to plan his routes across the places holding interesting events. In order to do so, he had to mark each event (place) one by one on his map. "Why don't they just put all the news on one map?" thought poor Mike, feeling exhausted.
 
@@ -49,3 +64,5 @@ Built With
 *   chat-GPT
 *   web-scrap
 *   selenium
+
+
