@@ -1,5 +1,5 @@
 # MapIntel
-Project for Philly Codefest 2023. 
+For Philly Codefest 2023. 
 
 More detail: https://devpost.com/software/mapintel-uctgxa
 
